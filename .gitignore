@@ -1,0 +1,116 @@
+node_modules/
+.env
+dist
+build
+.vite
+coverage
+# Node
+node_modules/
+dist/
+build/
+.vite
+out/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Editors / IDE
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# Caches / build artifacts
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+coverage/
+
+# Database / local data
+*.sqlite
+*.sqlite3
+*.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+node_repl_history
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv*/
+.venv/
+ENV/
+env.bak/
+pip-wheel-metadata/
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.mypy_cache/
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Pyenv / virtualenv
+.python-version
+
+# Machine learning artifacts
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+models/*.pkl
+models/*.joblib
+# ignore raw and processed datasets
+data/
+data/**
+
+# Jupyter
+.ipynb_checkpoints
+
+# Misc python
+*.egg-info/
+# build artifacts
+dist/
+build/
+
+# Explicitly keep package files (frontend + backend)
+!package.json
+!package-lock.json
+!**/package.json
+!**/package-lock.json
+
+# Cursor / Editor junk
+.cursor/
+.cursorrules
+.gitignore.save
