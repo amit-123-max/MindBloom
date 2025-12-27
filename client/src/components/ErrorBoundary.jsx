@@ -7,12 +7,10 @@ class ErrorBoundary extends React.Component {
   }
 
   static getDerivedStateFromError(error) {
-    // Update state so the next render will show the fallback UI
     return { hasError: true }
   }
 
   componentDidCatch(error, errorInfo) {
-    // Log error details in development
     if (import.meta.env.DEV) {
       console.error('ErrorBoundary caught an error:', error, errorInfo)
     }
@@ -22,8 +20,6 @@ class ErrorBoundary extends React.Component {
       errorInfo: errorInfo
     })
 
-    // In production, you might want to send this to an error reporting service
-    // reportError(error, errorInfo)
   }
 
   handleRetry = () => {
@@ -32,7 +28,7 @@ class ErrorBoundary extends React.Component {
 
   render() {
     if (this.state.hasError) {
-      // Fallback UI
+      
       return (
         <div className="min-h-screen bg-gradient-to-br from-pink-50 to-pink-100 flex items-center justify-center px-4">
           <div className="max-w-md w-full bg-white rounded-2xl shadow-2xl p-8 text-center border border-pink-100">
