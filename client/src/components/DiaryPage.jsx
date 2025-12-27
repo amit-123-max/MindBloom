@@ -43,6 +43,10 @@ const DiaryPage = () => {
     setShowForm(true)
   }
 
+  // const handleCancel = () => {
+  //   setShowForm(false)
+  //   setEditingJournal(null)
+  // }
   const handleCancel = () => {
     setShowForm(false)
     setEditingJournal(null)
