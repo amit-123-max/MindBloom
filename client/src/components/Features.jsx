@@ -96,7 +96,8 @@ const Features = () => {
                     handleCardClick(feature)
                   }}
                 >
-                  Explore {feature.title}
+                  {/* Explore {feature.title} */}
+                   Explore {feature.title}
                 </button>
               </div>
             </div>
