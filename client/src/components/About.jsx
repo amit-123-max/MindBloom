@@ -1,6 +1,6 @@
 import React from 'react'
 
-const About = () => {
+const About = () =>  {
   return (
     <section id="about" className="py-24 px-4 bg-gradient-to-br from-pink-50/70 to-white/80">
       <div className="max-w-6xl mx-auto">
