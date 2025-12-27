@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react'
 
 // Gemini API integration
-const GEMINI_API_KEY = 'AIzaSyDNLYQsM6aTrpskeqqPF54sVY2Y-W1eLvU'
+const GEMINI_API_KEY = 'Your_API_KEY'
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent'
 
 // Alternative PaLM API (more reliable)
