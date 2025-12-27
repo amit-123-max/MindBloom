@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Navbar from './Navbar'
 import Footer from './Footer'
 
-const AlbumPage = () => {
+const AlbumPage = () =>  {
   const [albums, setAlbums] = useState([])
   const [newAlbumName, setNewAlbumName] = useState('')
   const [newAlbumCover, setNewAlbumCover] = useState(null)
