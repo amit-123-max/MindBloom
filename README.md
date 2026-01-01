@@ -113,20 +113,38 @@ Here are some screenshots showcasing the MindBloom application. Add your images 
 ### Journaling Interface
 
 ![Journaling Screenshot](path/to/journaling-screenshot.png)
+<img width="1468" height="876" alt="image" src="https://github.com/user-attachments/assets/d046eb52-97be-406c-9364-abb0cc379a79" />
+<img width="983" height="811" alt="image" src="https://github.com/user-attachments/assets/6c4f0316-3437-4250-8835-2e63013a1861" />
+
+
 
 ### Diabetes Prediction Tool
 
 ![Diabetes Prediction Screenshot](path/to/diabetes-prediction-screenshot.png)
+<img width="1470" height="831" alt="image" src="https://github.com/user-attachments/assets/4b35528e-5aab-4e9a-8efb-a2878dec0db0" />
+<img width="1470" height="879" alt="image" src="https://github.com/user-attachments/assets/93837ac9-20d6-4935-843e-33219496bd5b" />
+
+
 
 ### Community Page
 
 ![Community Page Screenshot](path/to/community-page-screenshot.png)
+<img width="1470" height="878" alt="image" src="https://github.com/user-attachments/assets/931bcfbf-aa9a-4771-9327-9abfc15c3aab" />
+
 
 ### Other Key Features
 
 ![Feature X Screenshot](path/to/feature-x-screenshot.png)
+<img width="1469" height="879" alt="image" src="https://github.com/user-attachments/assets/fdf86417-ac39-4e24-818a-1623832fa50e" />
+<img width="1470" height="831" alt="image" src="https://github.com/user-attachments/assets/826f9475-1a5e-4795-95e0-5ee079063b43" />
+
+
 
 ![Feature Y Screenshot](path/to/feature-y-screenshot.png)
+<img width="1470" height="879" alt="image" src="https://github.com/user-attachments/assets/86f733db-9b62-495d-9322-71e746bb0cdd" />
+<img width="1469" height="878" alt="image" src="https://github.com/user-attachments/assets/9b62acac-a94a-4e2d-8d32-b9132eb60e89" />
+
+
 
 ## Contributing
 
