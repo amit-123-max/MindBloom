@@ -107,6 +107,8 @@ Here are some screenshots showcasing the MindBloom application. Add your images 
 ### Homepage
 
 ![Homepage Screenshot](path/to/homepage-screenshot.png)
+<img width="1470" height="878" alt="image" src="https://github.com/user-attachments/assets/1784a8f1-5c35-4270-bb22-32bc61649429" />
+
 
 ### Journaling Interface
 
